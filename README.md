@@ -1,5 +1,5 @@
+<img width="1391" alt="weather" src="https://user-images.githubusercontent.com/116782324/226172638-080d8a5f-c06b-4248-b717-015e238b94b1.png">
 <h1> Weather Fairy </h1>
-
 <h2> 프로젝트 소개 </h2>
 <h3> 1. 기획 의도 </h3>
 이상 기후로 인해 날씨가 오락가락하는 요즘,<br />
@@ -17,7 +17,7 @@
 |API|1. 서울 현재 기온, 날씨 아이콘, 날씨 설명 데이터 구현<br />(OpenWeather_weather)<br>2. 위도, 경도 설정, 미세먼지 데이터를 5단계로 나누어 구현<br />(OpenWeather_air_pollution)|
 
 <h3> 🤍 배포 사이트 🤍 </h3>
-<a href="http://101.101.208.182:3000/"><img src="project/src/fairy.png" width="70"></a>
+<a href="http://101.101.208.182:3000/"><img src="project/src/public/fairy.png" width="70"></a>
 
 <h1> 🧚🏻 프로젝트 팀원 🧚🏻 </h1>
 
@@ -33,9 +33,12 @@
 </div>
 <h4> 🤍Collaboration🤍 </h4>
 <div>
-<img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="50"/>
+<!-- <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1024px-Notion-logo.svg.png" width="50"/>
-<img src="https://cdn-icons-png.flaticon.com/512/3800/3800024.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3800/3800024.png" width="50"/> -->
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 </div>
 <h4> 🤍API🤍 </h4>
 <div>
